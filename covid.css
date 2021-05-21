@@ -1,0 +1,153 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-image: url("img/at.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+    background-position: center;
+    position:static;
+    top: 0px;
+}
+
+.nav-bar1{
+    padding: 0px;
+    margin: 0px;
+    background-image: url("img/at.jpg");
+    width: 100%;
+    position:fixed;
+    top: 0px;
+}
+
+
+.nav-bar1 ul{
+ padding: 0; 
+margin: 0 ; 
+list-style-type: none;
+height: 68px;
+position: sticky;
+top: 0px;
+font-family: 'Spartan', sans-serif;
+font-weight: bolder;
+}
+.li1{
+    font-size: 25px;
+    color: azure;
+    line-height: 45px;
+    
+}
+.a1{
+    float: right;
+    margin-left: 30px;
+    padding: 12px;
+    text-decoration: none;
+    color: rgb(246, 246, 246);
+
+}
+.a1:hover{
+    color: rgb(236, 226, 226)
+}
+
+.img1{
+    height: 50px;
+}
+ .box{ 
+    text-decoration: none;
+    position: absolute;
+    left: 3%;
+    bottom: 25%;
+    color: white;
+    font-size: 18px;
+}
+.box1{
+    text-decoration: none;
+    position: absolute;
+    left: 3%;
+    bottom: 13%;
+    color: white;
+    font-size: 18px;
+}
+
+
+.box:hover{
+    background-color: cornsilk;
+    border:1px solid cornsilk;
+    padding: 2px;
+    color: rgb(70, 149, 240); 
+}
+ .box1:hover{
+    background-color: cornsilk;
+    border:1px solid cornsilk;
+    padding: 2px;
+    color: rgb(70, 149, 240); 
+}
+
+.container2{
+    margin: 44px 130px;
+    padding: 3px auto;
+    border-left: 8px solid #1393dd;
+}
+.he1{
+    padding-left: 30px;
+    color: #266dc5;
+    font-family: 'Source Serif Pro', serif;
+}
+.he2{
+    font-family: 'Monoton', cursive;
+    font-size: 40px;
+    font-weight:bolder;
+    padding-left: 30px;
+    color: rgb(2, 1, 1);
+}
+.he3{
+    font-family: 'Merriweather', serif;
+    padding-left: 6px;
+    background-color: rgb(64 157 199);
+    color: black;
+    font-weight: lighter;
+    font-size: 30px;
+    margin-left: 30px;
+}
+.li6{
+    font-size: 20px;
+    letter-spacing: 1px;
+    font-family: 'sans-serif';
+}
+.fitness{
+    display: block;
+    width: 24%;
+    margin: 33px auto;
+    padding: 23px 99px;
+
+}
+.a2{
+    text-decoration: none;
+    cursor: pointer;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 25px;
+    color: rgb(10, 8, 8);
+    
+}
+.btn{
+    /* border: 2px solid violet; */
+    border-radius: 4px;
+    padding: 20px;
+    background-color: rgb(64 157 199)
+    
+}
+
+ .btn:hover {
+     background-color: rgb(65, 189, 206);
+}
+.a2:hover{
+    text-decoration: none;
+    color: whitesmoke;
+
+}
+
+
+
+   
+    
